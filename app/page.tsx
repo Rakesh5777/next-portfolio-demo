@@ -18,8 +18,7 @@ export default function Home() {
           </h1>
           <h2 className="text-2xl md:text-3xl mb-6">Full Stack Developer</h2>
           <p className="text-xl opacity-90">
-            Crafting exceptional digital experiences with modern web
-            technologies
+            rakesh 5777, bangalore, professional
           </p>
         </div>
       </div>
