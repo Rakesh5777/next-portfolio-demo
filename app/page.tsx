@@ -30,10 +30,10 @@ export default function Home() {
         <section className="mb-16">
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-lg text-gray-700 leading-relaxed mb-4">
-            I'm a Full Stack Developer with 3 years of experience in building
-            modern web applications. Currently working at Samsung Electro
-            Mechanics, I specialize in frontend technologies with expertise in
-            Angular, React, and Next.js.
+            I&apos;m a Full Stack Developer with 3 years of experience in
+            building modern web applications. Currently working at Samsung
+            Electro Mechanics, I specialize in frontend technologies with
+            expertise in Angular, React, and Next.js.
           </p>
         </section>
 
