@@ -14,7 +14,7 @@ export default function Home() {
       <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white">
         <div className="container mx-auto px-4 py-20">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Rakesh Reddy Kunda
+            Rakesh5777 frontend developer
           </h1>
           <h2 className="text-2xl md:text-3xl mb-6">Full Stack Developer</h2>
           <p className="text-xl opacity-90">
