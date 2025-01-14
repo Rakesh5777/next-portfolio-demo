@@ -6,9 +6,18 @@ import {
   Server,
   Database,
 } from "lucide-react";
+import Head from 'next/head';
+
 
 export default function Home() {
   return (
+    <>
+       <Head>
+        <title>Rakesh5777 | Frontend Developer</title>
+        <meta name="description" content="Portfolio of Rakesh5777, a Frontend Developer specializing in modern web technologies." />
+        <meta name="keywords" content="Rakesh5777, Frontend Developer, Next.js Portfolio, Rakesh Reddy" />
+        <meta name="author" content="Rakesh Reddy" />
+      </Head>
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white">
@@ -127,5 +136,6 @@ export default function Home() {
         </div>
       </footer>
     </div>
+        </>
   );
 }
